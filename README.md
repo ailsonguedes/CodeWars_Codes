@@ -5,8 +5,9 @@ Será utilizado como referência para estudo dos códigos resolvidos em diversas
 
 ## Linguagens:
 
-- **[C]()**
+- **[C](./C)**
 - **[Python](./Python)**
+- **[Typescript](./Typescript)**
 
 ## Recomendações:
 
