@@ -5,8 +5,8 @@ Será utilizado como referência para estudo dos códigos resolvidos em diversas
 
 ## Linguagens:
 
-**[C]()**
-**[Python](./Python)**
+- **[C]()**
+- **[Python](./Python)**
 
 ## Recomendações:
 
